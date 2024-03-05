@@ -1,0 +1,40 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  background-image: url(back\ ground\ pick.jpg);
+}
+.levelbox {
+  flex-direction: column;
+  height: 50vh;
+  width: 100vh;
+  align-items: center;
+  margin-top: 190px;
+  text-decoration: none;
+  background-color: white;
+  /* margin-left: 430px;
+    margin-top: 200px; */
+  /* background-image: url(back\ ground\ pick.jpg); */
+  /* border-radius: 20px; */
+}
+
+h2 {
+  font-size: 35px;
+  background: transparent;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-left: 120px;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+  background-color: rgb(109, 238, 109);
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 5px;
+  margin-left: 90px;
+  margin-top: 30px;
+}
